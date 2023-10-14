@@ -1,4 +1,4 @@
-module github.com/joe-p/conduit-events-exporter
+module github.com/joe-p/conduit-events-processor
 
 go 1.18
 
